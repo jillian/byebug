@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+### Fixed
+
+* Skip warning about `$SAFE` global variable when listing global variables.
+
 ### Removed
 
 * Support for MRI 2.4. Byebug no longer installs on this platform.
